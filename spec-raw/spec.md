@@ -1,7 +1,7 @@
-Template for a Profile
+SIG Profile Template
 ==================
 
-**Profile Status:** Draft
+**Profile Status:** Strawman
 
 **Latest Draft:**
   [https://identity.foundation/<profile-name>](https://identity.foundation/<profile-name>)
