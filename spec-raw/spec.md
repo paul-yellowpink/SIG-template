@@ -49,7 +49,12 @@ List of terms which appear in the profile, preferably with links to published de
 
 ## Profile 
 
-Put the profile here and structure as is deemed fit. 
+Profile Element                                 | (Skinny) Payload | Sample Additional Items Supplied by Consumers
+----------------------------------------------: | --------: | -------------------: 
+Identity | M | n/a |
+Name (Last, First, Middle, Salutation) | A | n/a
+Nationality | A | n/a
+ [Consumer Travel Schema Components (Draft)]
 
 ## Use-Cases
 
